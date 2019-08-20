@@ -72,3 +72,30 @@ body {
 #new-article-btn {
   margin-bottom: 10px;
 }
+
+.article-detail-title {
+  font-size: 3em;
+  margin-bottom: 40px;
+}
+
+.article-show-body {
+  font-size: 1.5em;
+  padding-left: 0em;
+  margin-top: 15px;
+}
+
+.edit-delete {
+  margin-top: 20px;
+}
+
+.sign-link a {
+  color: #64103F;
+}
+
+#error_explanation {
+  background-color: #f2dede;
+  color: #a94442;
+  text-align: left;
+  padding: 5px 20px;
+  margin-bottom: 30px;
+}
