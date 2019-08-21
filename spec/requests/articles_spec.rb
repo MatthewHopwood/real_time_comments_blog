@@ -76,7 +76,7 @@ RSpec.describe "Articles", type: :request do
       end
 
       it "successfully deletes article" do
-        expect(response.status).to eq 200
+        expect(response.status).to eq 302
       end
     end
   end
